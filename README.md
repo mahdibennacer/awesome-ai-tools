@@ -458,6 +458,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
+- [Spell Checking](https://spellchecking.net/) - Free Spell Checking Tool
  
 
 ## Learning resources
